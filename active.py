@@ -5,7 +5,6 @@ Created on Mon Dec  2 12:25:37 2019
 @author: Parth
 """
 import keys
-import psycopg2
 import os
 import urllib
 import collections
@@ -57,23 +56,6 @@ class PreProcessTweets:
         return [word for word in tweet if word not in self._stopwords]
 
 
-def create_tweet_table(name):
-    conn = psycopg2.connect(database=name, user = "postgres", password = "parth123n@#*", host = "127.0.0.1", port = "5432")
-    cur= conn.cursor()
-    cur.execute('''CREATE TABLE {} (ID BIGINT, USERNAME TEXT,TWEET_TEXT TEXT, CREATED_AT TIMESTAMP, LOCATION TEXT,POLARITY INT);'''.format(name))
-    conn.commit()
-    conn.close()
-
-
-def create_project_directory(directory):
-    if not os.path.exists(directory):
-        print("Creating a new Directory...")
-        os.makedirs(directory)
-
-def write_data(stored_tweets,filename):
-    tweet_pickle=open(filename,'wb')
-    pickle.dump(stored_tweets,tweet_pickle)
-    tweet_pickle.close()
 
 def clean_tweet(tweet): 
     ''' 
@@ -125,27 +107,6 @@ def get_url_data(tweets):
 
 
 
-
-'''
-def get_tweets(query, n):
-    _max_queries = 100  # arbitrarily chosen value
-    api = tweepy.API(get_authorization(),wait_on_rate_limit=True)
-    tweets = tweet_batch = api.search(q=query, count=n)
-    ct = 1
-    while len(tweets) < n and ct < _max_queries:
-        print(len(tweets))
-        tweet_batch = api.search(q=query, 
-                                 count=n - len(tweets),
-                                 max_id=tweet_batch.max_id)
-        tweet_batch1=list()
-        
-        for i in tweet_batch:
-            if i.id not in tweet_ids:
-                tweet_batch1.append(i)    
-        tweets.extend(tweet_batch1)
-        ct += 1
-    return tweets
-'''
 def pull_tweets(query):
     max_tweets=10000
 
