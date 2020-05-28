@@ -39,8 +39,7 @@ This analysis extracts the following insights from a user's profile:
  
  9) Printing locations of the top 15 users whose tweets were liked most frequently by the user.
   
- 
-  
+ This is just a standalone unit of a bigger project that is currently being designed by me. 
   
   
   
