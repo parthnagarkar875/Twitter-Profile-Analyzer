@@ -3,6 +3,8 @@ Run the main.ipynb file.
 The purpose of this notebook is to extract various types of information of a specific Twitter profile
 and analyze that information for identifying the interests, hobbies, preferences of that specific user. 
 
+For illustrative purpose, I have scanned the profile and extracted insights from the user @GTThampi2.
+
 The only additional dependency is to install and setup the Stanford NER tagger. 
 
 This analysis extracts the following insights from a user's profile:
