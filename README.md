@@ -23,12 +23,13 @@
 pip install -r requirements.txt
 python main.ipynb</pre></div>
 
-The purpose of this notebook is to extract various types of information of a specific Twitter profile
-and analyze that information for identifying the interests, hobbies, preferences of that specific user. 
-
 For illustrative purpose, I have scanned the profile and extracted insights from the user @GTThampi2.
 
-The only additional dependency is to install and setup the Stanford NER tagger. 
+<h3><a id="user-content-tech-stack-of-this-project" class="anchor" aria-hidden="true" href="#tech-stack-of-this-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Tech Stack of this Project:</h3>
+<ul>
+<li>Backend: Python3</li>
+<li>Dependencies: Slack API</li>
+<li>Libraries: Available in <a href="https://github.com/arghyadeep99/Go-Karuna-Go/blob/master/requirements.txt">requirements.txt</a>.</li>
 
 This analysis extracts the following insights from a user's profile:
 
