@@ -87,7 +87,7 @@ This analysis extracts the following insights from a user's profile:
 <table>  
   <tbody><tr>
 <td>
-  <a target="_blank" rel="noopener noreferrer" href="https://avatars2.githubusercontent.com/u/48564003?s=460&u=0d5be4605ca9d79b7e75b53e9464622de625a71f&v=4"><img src="https://avatars2.githubusercontent.com/u/48564003?s=460&u=0d5be4605ca9d79b7e75b53e9464622de625a71f&v=4" style="max-width:100%;" width="100px" height="100px"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://avatars2.githubusercontent.com/u/48564003?s=460&u=0d5be4605ca9d79b7e75b53e9464622de625a71f&v=4"><img src="https://avatars2.githubusercontent.com/u/48564003?s=460&u=0d5be4605ca9d79b7e75b53e9464622de625a71f&v=4" style="max-width:100%;" width="150px" height="150px"></a>
 <pre><code> Parth Nagarkar
 </code></pre>
 <p align="center">
