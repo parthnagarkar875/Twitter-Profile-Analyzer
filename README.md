@@ -31,7 +31,7 @@ For illustrative purpose, I have scanned the profile and extracted insights from
 <li>Dependencies: Slack API</li>
 <li>Libraries: Available in <a href="https://github.com/VirtualGoat/Twitter-Profile-Analyzer/blob/master/requirements.txt">requirements.txt</a>.</li>
 </ul>
-
+<p></p>
 This analysis extracts the following insights from a user's profile:
 
 1) Name and Location of a user.
@@ -67,7 +67,19 @@ This analysis extracts the following insights from a user's profile:
  9) Printing locations of the top 15 users whose tweets were liked most frequently by the user.
   
  This is just a standalone unit of a bigger project that is currently being designed by me. 
-  
+ 
+ <h4><a id="user-content-this-project-still-has-scope-of-development-so-you-can-also-contribute-to-this-project-as-follows" class="anchor" aria-hidden="true" href="#this-project-still-has-scope-of-development-so-you-can-also-contribute-to-this-project-as-follows"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>This project still has scope of development, so you can also contribute to this Project as follows:</h4>
+<ul>
+<li><a href="https://github.com/VirtualGoat/Twitter-Profile-Analyzer">Fork</a> this Repository.</li>
+<li>Clone your Fork on a different branch:
+<ul>
+<li><code>git clone -b &lt;name-of-branch&gt; https://github.com/VirtualGoat/Twitter-Profile-Analyzer.git</code></li>
+</ul>
+</li>
+<li>After adding any feature:
+<ul>
+<li>Goto your fork and create a pull request.</li>
+<li>I will test your modifications and merge changes.</li>
   
   
   
