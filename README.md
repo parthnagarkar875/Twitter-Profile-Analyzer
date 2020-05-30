@@ -33,7 +33,8 @@
 pip install -r requirements.txt
 python main.ipynb</pre></div>
 
-For illustrative purpose, I have scanned the profile and extracted insights from the user @GTThampi2.
+<div class="highlight highlight-source-shell"><pre>For illustrative purpose, I have scanned the profile and extracted insights from the user <strong>@GTThampi2</strong>.
+</pre></div>
 
 <h3><a id="user-content-tech-stack-of-this-project" class="anchor" aria-hidden="true" href="#tech-stack-of-this-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Tech Stack of this Project:</h3>
 <ul>
@@ -89,10 +90,8 @@ For illustrative purpose, I have scanned the profile and extracted insights from
 <p>Printing top 15 usernames and locations of the users whose tweets were liked most frequently.</p>
 </li>
 </ol>
-
- This is just a standalone unit of a bigger project that is currently being designed by me. 
  
- <h4><a id="user-content-this-project-still-has-scope-of-development-so-you-can-also-contribute-to-this-project-as-follows" class="anchor" aria-hidden="true" href="#this-project-still-has-scope-of-development-so-you-can-also-contribute-to-this-project-as-follows"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>This project still has scope of development, so you can also contribute to this Project as follows:</h4>
+ <h4><a id="user-content-this-project-still-has-scope-of-development-so-you-can-also-contribute-to-this-project-as-follows" class="anchor" aria-hidden="true" href="#this-project-still-has-scope-of-development-so-you-can-also-contribute-to-this-project-as-follows"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>This project is a part of a bigger project and still has scope of development, so you can also contribute to this Project as follows:</h4>
 <ul>
 <li><a href="https://github.com/VirtualGoat/Twitter-Profile-Analyzer">Fork</a> this Repository.</li>
 <li>Clone your Fork on a different branch:
