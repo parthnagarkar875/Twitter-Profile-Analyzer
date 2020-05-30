@@ -29,7 +29,8 @@ For illustrative purpose, I have scanned the profile and extracted insights from
 <ul>
 <li>Backend: Python3</li>
 <li>Dependencies: Slack API</li>
-<li>Libraries: Available in <a href="https://github.com/arghyadeep99/Go-Karuna-Go/blob/master/requirements.txt">requirements.txt</a>.</li>
+<li>Libraries: Available in <a href="https://github.com/VirtualGoat/Twitter-Profile-Analyzer/blob/master/requirements.txt">requirements.txt</a>.</li>
+</ul>
 
 This analysis extracts the following insights from a user's profile:
 
