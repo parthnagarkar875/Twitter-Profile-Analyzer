@@ -87,11 +87,11 @@ This analysis extracts the following insights from a user's profile:
 <table>  
   <tbody><tr>
 <td>
-  <a target="_blank" rel="noopener noreferrer" href="https://avatars3.githubusercontent.com/u/33197180?s=150&amp;v=4"><img src="https://avatars3.githubusercontent.com/u/33197180?s=150&amp;v=4" style="max-width:100%;"></a>
-<pre><code> Arghyadeep Das
+  <a target="_blank" rel="noopener noreferrer" href="https://avatars2.githubusercontent.com/u/48564003?s=460&u=0d5be4605ca9d79b7e75b53e9464622de625a71f&v=4"><img src="https://avatars2.githubusercontent.com/u/48564003?s=460&u=0d5be4605ca9d79b7e75b53e9464622de625a71f&v=4" style="max-width:100%;"></a>
+<pre><code> Parth Nagarkar
 </code></pre>
 <p align="center">
-<a href="https://github.com/VirtualGoat"><img src="https://avatars2.githubusercontent.com/u/48564003?s=460&u=0d5be4605ca9d79b7e75b53e9464622de625a71f&v=4" width="36" height="36" data-canonical-src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" style="max-width:100%;"></a>
+<a href="https://github.com/VirtualGoat"><img src="https://camo.githubusercontent.com/e8b53b6a899da4a8b5509306e724974a7f8495fc/687474703a2f2f7777772e69636f6e6e696e6a612e636f6d2f66696c65732f3234312f3832352f3231312f726f756e642d636f6c6c61626f726174696f6e2d736f6369616c2d6769746875622d636f64652d636972636c652d6e6574776f726b2d69636f6e2e737667" width="36" height="36" data-canonical-src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" style="max-width:100%;"></a>
 <a href="https://twitter.com/nagarkarparth22" rel="nofollow"><img src="https://camo.githubusercontent.com/33503d21b971d9da22330670f95117140eb202aa/68747470733a2f2f7777772e736861726569636f6e2e6e65742f646f776e6c6f61642f323031362f30372f30362f3130373131355f6d656469612e737667" width="36" height="36" data-canonical-src="https://www.shareicon.net/download/2016/07/06/107115_media.svg" style="max-width:100%;"></a>
 <a href="https://www.linkedin.com/in/parth-nagarkar-2201875/" rel="nofollow"><img src="https://camo.githubusercontent.com/aa4bc71373e7d776c4a68ea41d517b0df41494f5/687474703a2f2f7777772e69636f6e6e696e6a612e636f6d2f66696c65732f3836332f3630372f3735312f6e6574776f726b2d6c696e6b6564696e2d736f6369616c2d636f6e6e656374696f6e2d63697263756c61722d636972636c652d6d656469612d69636f6e2e737667" width="36" height="36" data-canonical-src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" style="max-width:100%;"></a>
 </p>
