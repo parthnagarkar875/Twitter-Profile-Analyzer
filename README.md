@@ -1,5 +1,7 @@
 Run the main.ipynb file. 
 
+🤖
+
 The purpose of this notebook is to extract various types of information of a specific Twitter profile
 and analyze that information for identifying the interests, hobbies, preferences of that specific user. 
 
