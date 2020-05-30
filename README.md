@@ -17,10 +17,8 @@
 <ul class="contains-task-list">
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <strong>Twitter</strong> data extraction.</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> <strong>Sentiment Analysis </strong> of the tweets posted and liked by a user.</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Extraction of <strong>Named Entities</strong> from the tweets posted an liked by a user using <strong>Named Entity Recognition</strong> </li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Extraction of <strong>Named Entities</strong> from the tweets posted an liked by a user using <strong>Named Entity Recognition</strong> </li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Top accounts the user interacts with</li>
-
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Extraction of <strong>Named Entities</strong> from the tweets posted and liked by a user using <strong>Named Entity Recognition</strong> </li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Identifying the top 15 accounts the user interacts with</li>
 </ul>
 
 
