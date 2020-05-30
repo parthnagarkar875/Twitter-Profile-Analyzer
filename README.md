@@ -82,8 +82,24 @@ This analysis extracts the following insights from a user's profile:
 <li>Goto your fork and create a pull request.</li>
 <li>I will test your modifications and merge changes.</li>
   
-  
-  
+<hr>
+<h3 align="center"><a id="user-content-developed-with-heart-by-" class="anchor" aria-hidden="true" href="#developed-with-heart-by-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><b>Developed with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> by: </b></h3>
+<table>  
+  <tbody><tr>
+<td>
+  <a target="_blank" rel="noopener noreferrer" href="https://avatars3.githubusercontent.com/u/33197180?s=150&amp;v=4"><img src="https://avatars3.githubusercontent.com/u/33197180?s=150&amp;v=4" style="max-width:100%;"></a>
+<pre><code> Arghyadeep Das
+</code></pre>
+<p align="center">
+<a href="https://github.com/VirtualGoat"><img src="https://avatars2.githubusercontent.com/u/48564003?s=460&u=0d5be4605ca9d79b7e75b53e9464622de625a71f&v=4" width="36" height="36" data-canonical-src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" style="max-width:100%;"></a>
+<a href="https://twitter.com/nagarkarparth22" rel="nofollow"><img src="https://camo.githubusercontent.com/33503d21b971d9da22330670f95117140eb202aa/68747470733a2f2f7777772e736861726569636f6e2e6e65742f646f776e6c6f61642f323031362f30372f30362f3130373131355f6d656469612e737667" width="36" height="36" data-canonical-src="https://www.shareicon.net/download/2016/07/06/107115_media.svg" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/parth-nagarkar-2201875/" rel="nofollow"><img src="https://camo.githubusercontent.com/aa4bc71373e7d776c4a68ea41d517b0df41494f5/687474703a2f2f7777772e69636f6e6e696e6a612e636f6d2f66696c65732f3836332f3630372f3735312f6e6574776f726b2d6c696e6b6564696e2d736f6369616c2d636f6e6e656374696f6e2d63697263756c61722d636972636c652d6d656469612d69636f6e2e737667" width="36" height="36" data-canonical-src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" style="max-width:100%;"></a>
+</p>
+</td>
+</tr>
+</tbody></table>
+</article>  
+
   
   
   
