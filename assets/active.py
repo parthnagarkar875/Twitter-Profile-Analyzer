@@ -4,7 +4,7 @@ Created on Mon Dec  2 12:25:37 2019
 
 @author: Parth
 """
-import keys
+from assets import keys
 import os
 import urllib
 import collections
