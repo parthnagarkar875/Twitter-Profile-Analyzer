@@ -4,6 +4,8 @@ Created on Mon Dec  2 12:25:37 2019
 
 @author: Parth
 """
+
+#Import
 from assets import keys
 import os
 import urllib
@@ -26,7 +28,7 @@ import plotly.offline as py
 import plotly.graph_objs as go
 from plotly.subplots import make_subplots
 
-
+#Vars
 url_list=list()
 username_list=list()
 user_profile_list=list()
@@ -39,6 +41,7 @@ api = tweepy.API(auth,wait_on_rate_limit=True)
 
 class PreProcessTweets:
     def __init__(self):
+        #English words only
         self._stopwords = set(stopwords.words('english') + list(punctuation) + ['AT_USER','URL'])
         
     def processTweets(self, list_of_tweets):
